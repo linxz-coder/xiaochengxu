@@ -1,0 +1,7 @@
+<!--index.wxml-->
+<navigation-bar title="凡夫" back="{{false}}" color="black" background="#FFF"></navigation-bar>
+<scroll-view class="scrollarea" scroll-y type="list">
+  <view class="container">
+    这是我的第一个小程序
+  </view>
+</scroll-view>
